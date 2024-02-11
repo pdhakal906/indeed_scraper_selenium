@@ -1,0 +1,9 @@
+# Ignore JSON files
+*.json
+
+venv/
+
+
+*.html
+
+*.xml
